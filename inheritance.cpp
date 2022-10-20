@@ -2,7 +2,7 @@
 using namespace std;
 
 class student
-{
+fkkf
     int rollnum;
     public:
     void get(int y)
