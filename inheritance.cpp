@@ -8,7 +8,7 @@ class student
     void get(int y)
     {
         rollnum=y;
-    }
+    pp
     void show()
     {
         cout<<"Roll num. is ="<<rollnum<<endl;
