@@ -3,15 +3,15 @@ using namespace std;
 
 class student
 {
-    int rollno;
+    int rollnum;
     public:
     void get(int y)
     {
-        rollno=y;
+        rollnum=y;
     }
     void show()
     {
-        cout<<"Roll no. is ="<<rollno<<endl;
+        cout<<"Roll num. is ="<<rollnum<<endl;
     }
 };
 
