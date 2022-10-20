@@ -5,9 +5,9 @@ class student
 {
     int rollno;
     public:
-    void get(int x)
+    void get(int y)
     {
-        rollno=x;
+        rollno=y;
     }
     void show()
     {
@@ -35,9 +35,9 @@ class sport
     protected:
     float sn;
     public:
-    void getsn(int y)
+    void getsn(int z)
     {
-        sn=y;
+        sn=z;
 
     }
     void showsn()
