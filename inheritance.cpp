@@ -18,7 +18,7 @@ class student
 class test : public student
 {
     protected:
-    float t1,t2;
+    float t3,t2;
     public:
     void getn(int a,int b)
     {
