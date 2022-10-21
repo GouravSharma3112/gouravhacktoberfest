@@ -22,10 +22,12 @@ class test : public student
     public:
     void getn(int a,int b)
     {
-        t1=a,t2=bffishwrdddddd
+        t1=a,t2=bffdqwertddddddddddddddd
     }
     void shown()
-    {
+  
+
+  {
         cout<<t1<<endl<<t2<<endl;
     }
 };
