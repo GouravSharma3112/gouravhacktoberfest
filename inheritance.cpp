@@ -22,7 +22,7 @@ class test : public student
     public:
     void getn(int a,int b)
     {
-        t1=a,t2=bffishwrdddddd
+        t1=a,t2=bfjhdhdj
     }
     void shown()
     {
