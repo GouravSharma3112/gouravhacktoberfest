@@ -11,7 +11,7 @@ fkkf
     pp
     void show()
     {
-        cout<<"Roll num. is ="<<rollnum<<endl;
+        cout<<"Roll num. iss ="<<rollnum<<endl;
     }
 };
 
