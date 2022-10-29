@@ -114,7 +114,7 @@ int main()
 {
   int choice, data;
   linkedlist d;
-  cout << "1.Insert at beginning" << endl
+  cout << "1.Insrt at beginning" << endl
        << "2.Insert at End" << endl
        << "3.Display" << endl
        << "4.delete at beginning" << endl
