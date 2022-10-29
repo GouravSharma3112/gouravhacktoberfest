@@ -83,7 +83,7 @@ int main()
 
         if(head==NULL)
         {
-            printf("\n\t\t\t\tNode is Not Created Yet\n\n\t\t\t\tAt first Create a Node");
+            printf("\n\t\t\t\tNode is Nt Created Yet\n\n\t\t\t\tAt first Create a Node");
             getch();
             main();
         }
